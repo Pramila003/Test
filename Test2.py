@@ -1,3 +1,3 @@
-int x=2
-int y=5
+x=2
+y=5
 print(x+y)
